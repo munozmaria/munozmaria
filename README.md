@@ -1,6 +1,8 @@
 ### Hi, I'm Maria 👋
 
-![me](https://user-images.githubusercontent.com/97897378/197480554-305f7549-5d2a-433d-8db9-c71820b71976.gif)
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/XgtJCYMbPvMe4/giphy.gif" width="600" height="300"/>
+</div>
 
 ## **About Me:** 
 I am a Junior Front-End Developer✨, originally from Spain. Some technologies I enjoy working with include ReactJS, VueJS and Tailwind.
