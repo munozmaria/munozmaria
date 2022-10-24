@@ -5,7 +5,7 @@
 </div>
 
 ## **About Me:** 
-I am a Junior Front-End Developer✨, originally from Spain and living in Paris. Some technologies I enjoy working with include ReactJS, VueJS and Tailwind.
+I am a Front-End Developer✨, originally from Spain and living in Paris. Some technologies I enjoy working with include ReactJS, VueJS and Tailwind.
 
 
 - 🔭 I’m looking for a company where I could grow my skill set and follow the best practices in order to excel in web developpment.
