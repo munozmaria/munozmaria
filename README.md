@@ -5,7 +5,7 @@
 </div>
 
 ## **About Me:** 
- I'm currently learning frontend ❤️ My dream is to be a full-stack developer specialized in the frontend. ✨ Originally from Spain, I'm living in Paris. Some technologies I enjoy working with include ReactJS, VueJS and Tailwind.
+ I'm currently learning frontend ❤️ My dream is to be a full-stack developer specialized in the frontend. ✨ Originally from Spain, I'm living in Paris. Some technologies I enjoy working with include ReactJS, GSAP and CSS.
 
 
 - 🔭 I’m looking for a company where I could grow my skill set and follow the best practices in order to excel in web developpment.
