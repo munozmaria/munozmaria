@@ -13,7 +13,7 @@ In this repository, you will find a collection of web development projects I've 
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/mariamunozrodriguez/)
+[LinkedIn](https://www.linkedin.com/in/mariamunozrodriguez/){:target="_blank"}
 
 ## Technologies and Tools
 
