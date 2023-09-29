@@ -34,7 +34,6 @@ I work with the following technologies and tools:
 
 - 🗃️ **Database**:
   - MongoDB
-  - MySQL
 
 - 🛠️ **Dev Tools**:
   - Postman
