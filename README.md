@@ -6,7 +6,7 @@
 
 ## About Me
 
-Welcome to my GitHub repository! 🐾 I am a web development student, and this is where I showcase the projects I've created during my training. 🚀 I am deeply passionate about web development and committed to improving my skills through continuous learning and practice. 🌟
+Welcome to my GitHub repository! 🐾 I am a web development student, and this is where I showcase the projects I've created during my training 🚀 I am deeply passionate about web development and committed to improving my skills through continuous learning and practice.
 
 
 ## Contact
