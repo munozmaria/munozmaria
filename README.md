@@ -20,8 +20,7 @@ I work with the following technologies and tools:
   - HTML, CSS, JavaScript
   - Responsive Web Design
   - REACT
-  - 📘 Learning TypeScript
-  - ⚛️ Learning Next.js
+  - Next.js
 
 - 📱 **Mobile Development**:
   - React Native
@@ -30,7 +29,7 @@ I work with the following technologies and tools:
   - Express.js
   - Axios
   - Node.js
-  - 🚀 Learning Nest.js
+  - 🚀 Learning PHP
 
 - 🗃️ **Database**:
   - MongoDB
