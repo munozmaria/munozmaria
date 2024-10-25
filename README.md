@@ -1,7 +1,7 @@
 ### Hi, I'm Maria 👋
 
 <div id="header" align="center">
-  <img src="https://i.giphy.com/xUA7aW1ddSxtVT5zzi.webp" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/XgtJCYMbPvMe4/giphy.gif" width="600" height="300"/>
 </div>
 
 ## About Me
