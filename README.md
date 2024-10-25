@@ -6,7 +6,7 @@
 
 ## About Me
 
-Welcome to my GitHub repository! 🐾 I am a web development student, and this is where I showcase the projects I've created during my training 🚀 I am deeply passionate about web development and committed to improving my skills through continuous learning and practice.
+Welcome to my GitHub repository! 🐾 I am deeply passionate about web development and committed to improving my skills through continuous learning and practice.
 
 
 ## Contact
@@ -17,7 +17,7 @@ Welcome to my GitHub repository! 🐾 I am a web development student, and this i
 I work with the following technologies and tools:
 
 - 💻 **Web Development**:
-  - HTML, CSS, JavaScript
+  - HTML, CSS, JavaScript, PHP
   - Responsive Web Design
   - REACT
   - Next.js
@@ -27,13 +27,14 @@ I work with the following technologies and tools:
 
 - ⚙️ **Backend Development**:
   - Express.js
-  - Axios
   - Node.js
-  - 🚀 Learning PHP
+  - PHP
 
 - 🗃️ **Database**:
   - MongoDB
+  - MySQL
 
 - 🛠️ **Dev Tools**:
   - Postman
-  - Visual Studio Code 
+  - Visual Studio Code
+  - Blender 3D
