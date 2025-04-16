@@ -1,40 +1,60 @@
 ### Hi, I'm Maria 👋
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/XgtJCYMbPvMe4/giphy.gif" width="600" height="300"/>
-</div>
-
 ## About Me
 
-Welcome to my GitHub repository! 🐾 I am deeply passionate about web development and committed to improving my skills through continuous learning and practice.
+Welcome to my GitHub repository! 🐾  
+I'm a **web and mobile developer** based in **Paris, France 🇫🇷🗼**. Currently, I'm working on a **contrat de professionnalisation**, and I decided to transition into development after several years of working closely with hotel directors. My passion for technology and problem-solving led me to create useful applications, and one of my most impactful projects is **QRStock**. I built it entirely by myself for my company to improve stock management through QR code scanning, alerts, and automation.
 
 
 ## Contact
-
 [LinkedIn](https://www.linkedin.com/in/mariamunozrodriguez/)
-## Technologies and Tools
 
-I work with the following technologies and tools:
 
-- 💻 **Web Development**:
-  - HTML, CSS, JavaScript, PHP
-  - Responsive Web Design
-  - REACT
-  - Next.js
+## 🧰 Technologies and Tools
 
-- 📱 **Mobile Development**:
-  - React Native
+I work with a wide range of technologies and tools, from mobile and web development to server-side logic and deployment.
 
-- ⚙️ **Backend Development**:
-  - Express.js
-  - Node.js
-  - PHP
+### 💻 Web Development
+- HTML / CSS / JavaScript
+- React
+- Next.js
+- PHP
 
-- 🗃️ **Database**:
-  - MongoDB
-  - MySQL
+### 📱 Mobile Development
+- React Native
+- Expo
 
-- 🛠️ **Dev Tools**:
-  - Postman
-  - Visual Studio Code
-  - Blender 3D
+### ⚙️ Backend Development
+- Node.js
+- Express.js
+- PHP (legacy tools in my company)
+
+### 🗃️ Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Sequelize ORM
+
+### 📡 APIs and Services
+- REST APIs
+- JWT Authentication
+- Emailing with **Brevo** (formerly Sendinblue)
+
+### 🛠️ Tools & DevOps
+- Postman
+- PM2
+- Git & GitHub
+- Visual Studio Code
+- PlanetHoster (Node.js hosting with CloudLinux)
+- .htaccess, Passenger (for backend routing & config)
+
+### ⚙️ Other Tools & Skills
+- Raspberry Pi (stock alerts with sensors)
+- Figma (UI design and prototyping)
+- Blender (3D modeling for QR code holders)
+- Agile project management (small team collaboration)
+- LottieFiles (for splash animations)
+
+---
+
+
