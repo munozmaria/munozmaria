@@ -27,7 +27,7 @@ I work with a wide range of technologies and tools, from mobile and web developm
 ### ⚙️ Backend Development
 - Node.js
 - Express.js
-- PHP (legacy tools in my company)
+- PHP
 
 ### 🗃️ Databases
 - PostgreSQL
